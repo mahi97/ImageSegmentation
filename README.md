@@ -1,5 +1,5 @@
 # ImageSegmentation
-~ Image Segmentaion by Hidden Markon Models
+~ Image Segmentation by Hidden Markov Models
 
 **Please Read the Report.pdf if you are interested in this project.**
 
